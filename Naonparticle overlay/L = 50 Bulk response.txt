@@ -1,0 +1,6 @@
+% Model:              Pt_secm_ele_HOPG_k0H.mph
+% Version:            COMSOL 5.4.0.388
+% Date:               May 14 2020, 17:55
+% Table:              Table 13 - L = 50 Bulk (kback*cP, n*F*kback*cP, n*F*kback*cP/(n*F*k0*Atip), tds.ntflux_cP/(D*Atip/Rbase), tds.ntflux_cP/(kback*Atip), tds.ntflux_cP/(D*2.2*4*Rbase), tds.ntflux_cP/(D*2*pi*Rbase))
+% Xa (m)                 L (nm)                   Kinetically limited (mM), Integral 12hemispherical Mass transfer coeff Bard (mM), Integral 12Cone Zoski 2002 RG = 5 (mM), Integral 12Hemisphere UME (mM), Integral 12
+0                        4375                     3.596486681113867E-4     0.9755186537048979       0.9903617691075258       1.5131613216258901
