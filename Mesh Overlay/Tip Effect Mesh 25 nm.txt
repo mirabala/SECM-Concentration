@@ -1,6 +1,6 @@
 % Model:              Pt_secm_ele_HOPG_Mesh.mph
 % Version:            COMSOL 5.4.0.388
-% Date:               May 28 2020, 21:39
+% Date:               May 30 2020, 01:29
 % Table:              Table 8 - L = 25 kOH (kback*cP, n*F*kback*cP)
 % Xa (m)                                          L (nm)                                            k0H (cm/s)                                        kback*cP (mol/s), Integral 7                      n*F*kback*cP (pA), Integral 7                     -(nx*cPx+ny*cPy+nz*cPz)*n*F*D (pA), Integral 7    tds.ntflux_cP/(2.4*4*D*Rbase) (mM), Integral 7
 -2.7500000000000007E-7                            25                                                0                                                 1.0292679736064499E-16                            9.930892043341833                                 8.83354426185236                                  0.14587091989198317
